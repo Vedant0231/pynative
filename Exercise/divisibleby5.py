@@ -1,7 +1,6 @@
-num = []
-a = int(input("Enter a number for sound: "))
-num.append(a)
+num = [11,15,10]
+# num = input("enter the number  ").split()
 
-for i in range(0,num):
+for i in num:
     if i%5 == 0:
         print(i)
