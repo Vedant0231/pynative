@@ -3,10 +3,6 @@ class common:
         print("this are used for traveling")
 
 
-
-
-
-
 class vehicals(common):
     def __init__(self, name, color, price, year):
         self.name=name
