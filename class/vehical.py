@@ -30,22 +30,3 @@ print(vehical1)
 vehical2 = vehicals("swift","black","800000","2020")
 vehical2.car()
 print(vehical2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
