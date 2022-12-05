@@ -1,3 +1,4 @@
+#update value in class
 class student:
     def __init__(self,name,age,std):
         self.name=name
