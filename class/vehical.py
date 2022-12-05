@@ -1,3 +1,5 @@
+# this is a example of inheritance in oops. We can use function from common class in vehicals class by inheritance.
+
 class common:
     def commonfunction(self): 
         print("this are used for traveling")
@@ -29,4 +31,7 @@ print(vehical1)
 vehical2 = vehicals("swift","black","800000","2020")
 vehical2.car()
 print(vehical2)
+<<<<<<< HEAD
 
+=======
+>>>>>>> ae314414c47f8776e9fd3aa3bccb780b896beb17
