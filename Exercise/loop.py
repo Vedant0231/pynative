@@ -9,3 +9,12 @@ for i in range(0,num):
 
     print("current number",current_number,"previous number",previous_number,'sum',sum) 
     
+print('for loop to display first 5 numbers')
+for i in range(5):
+    print(i, end=' ')
+
+print('while loop to display first 5 numbers')
+n = 0
+while n < 5:
+    print(n, end=' ')
+    n = n + 1

@@ -1,7 +1,6 @@
 class common:
-    def commonfunction(self):
+    def commonfunction(self): 
         print("this are used for traveling")
-
 
 class vehicals(common):
     def __init__(self, name, color, price, year):
@@ -30,22 +29,4 @@ print(vehical1)
 vehical2 = vehicals("swift","black","800000","2020")
 vehical2.car()
 print(vehical2)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
