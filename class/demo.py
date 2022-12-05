@@ -1,3 +1,4 @@
+#Polymorphism
 class Ferrari:
     def fuel_type(self):
         print("Petrol")
