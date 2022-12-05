@@ -9,7 +9,14 @@
 # else:
 #     print("not present")    
 
-def add(a,b):
-    return a*b
+def is_even(list1):
+    even_num = []
+    for n in list1:
+        if n % 2 == 0:
+            even_num.append(n)
+    # return a list
+    return even_num
 
-print(add(2,5))    
+# Pass list to the function
+even_num = is_even([3,5,1,7,9,2])
+print("Even numbers are:", even_num)
