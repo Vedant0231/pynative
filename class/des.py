@@ -1,3 +1,4 @@
+#destructor
 class information:
     def __init__(self,name,age,location,std):
         self.name=name
