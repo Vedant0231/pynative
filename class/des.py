@@ -20,3 +20,4 @@ stu2.studentinfo()
 
 del stu2
 stu2.studentinfo()
+
